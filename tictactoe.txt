@@ -1,0 +1,7 @@
+-------------------------------------------- Player[X] VS Player[O] --------------------------------------------
+Total games played: 1
+PLAYER1 [X] named "uhj" wins: 1
+PLAYER2 [O] named "jkm" wins: 0
+Tie games: 0
+-------------------------------------------- Result: --------------------------------------------
+PLAYER1 [X] named: "uhj" WINS THIS GAME!
