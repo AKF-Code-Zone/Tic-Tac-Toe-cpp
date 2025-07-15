@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe – C++
 
-A terminal-based Tic Tac Toe game developed in C++ as part of my 1st semester project.
+A terminal-based Tic Tac Toe game developed in C++ using Peogtamming Fundamentals Concepts (PF) as part of my 1st semester project.
 
 ## 🧠 Features:
 - Player vs Player mode
