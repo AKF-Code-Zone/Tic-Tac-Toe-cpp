@@ -1,2 +1,16 @@
-# Tic-Tac-Toe-cpp
-A C++ Tic Tac Toe game with player vs player and computer mode. Includes scoreboard.
+# 🎮 Tic Tac Toe – C++
+
+A terminal-based Tic Tac Toe game developed in C++ as part of my 1st semester project.
+
+## 🧠 Features:
+- Player vs Player mode
+- Player vs Computer mode
+- Scoreboard tracking
+- Easy-to-use interface (command-line)
+
+### 💻 Technologies Used:
+- C++
+
+📅 Semester: 1st  
+👩‍💻 Role: Solo Developer  
+✅ Status: Completed
